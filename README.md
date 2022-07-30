@@ -23,7 +23,7 @@ This is NewsLetter Subscribe site created using NodeJS and MongoDB in that user 
 Clone the project
 
 ```bash
-  git clone https://github.com/prins2003/NodeJs-Mini-Project.git
+  git clone https://github.com/Umang-Bariya/NodeJs-Mini-Project.git
 ```
 
 Go to the project directory
